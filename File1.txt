@@ -2,7 +2,7 @@ Hello world!!!
 
 Welcome to Git.....
 
-Changed:Login Feature
-Change:Logout Feature
-hggbierfdhgi
-nhvuhirjmigkdg
+Change:Implemented Login Feature
+Change:Implemented Logout Feature
+change:to fix bug1
+change:change made by team mate for payment gateway
